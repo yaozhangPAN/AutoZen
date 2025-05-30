@@ -58,7 +58,7 @@ brew install cliclick
 请根据你的实际情况修改以下内容：
 
 - Zoom 会议链接与密码  
-- Keynote 文件路径  
+- 你的Keynote或者PPT文件路径  （示例Keynote文件可以从这里下载https://drive.google.com/file/d/13zOj9XzdBOf-kqvvUycU5H2umwW33BT3/view?usp=sharing）
 - 所有点击操作的坐标（需要测试获取）
 
 ---
